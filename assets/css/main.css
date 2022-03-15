@@ -2713,7 +2713,7 @@ avatar {
 
 	#header {
 		background-attachment: scroll,							scroll,					fixed;
-		background-image: url("images/pic01.jpg"), url("images/overlay.png"), url("../../images/header.jpg");
+		background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("../../images/header.jpg");
 		background-position: bottom center,					top left,				center center;
 		background-repeat: repeat-x,						repeat,					no-repeat;
 		background-size: 3200px 460px,					auto,					cover;
@@ -2804,7 +2804,7 @@ avatar {
 	#footer {
 		background-attachment: scroll;
 		background-color: #4eb980;
-		background-image: url("images/pic01.jpg");
+		background-image: url("images/top-3200.svg");
 		background-position: top center;
 		background-repeat: repeat-x;
 		background-size: 3200px 460px;
