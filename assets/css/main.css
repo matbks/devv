@@ -2704,6 +2704,13 @@ input, select, textarea {
 
 /* Header */
 
+avatar {
+	vertical-align: middle;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+  }
+
 	#header {
 		background-attachment: scroll,							scroll,					fixed;
 		background-image: url("images/pic01.jpg"), url("images/overlay.png"), url("../../images/header.jpg");
