@@ -2598,7 +2598,7 @@ e
 
 	.box {
 		background: #ffffff;
-		border: solid 1px rgba(224, 224, 224, 0.75);
+		border: solid 0px rgba(224, 224, 224, 0.75);
 		margin-bottom: 6em;
 		padding: 3.5em;
 	}
@@ -2797,6 +2797,8 @@ avatar {
 			font-size: 1.5em;
 			line-height: 1.5em;
 			margin: 0.25em 0 0 0;
+			text-align: center;
+			justify-content: center;
 		}
 
 /* Footer */
